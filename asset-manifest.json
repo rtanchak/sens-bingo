@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sens-bingo/static/css/main.1af785b0.css",
+    "main.js": "/sens-bingo/static/js/main.1c8b7ffc.js",
+    "static/js/787.e54eb4d0.chunk.js": "/sens-bingo/static/js/787.e54eb4d0.chunk.js",
+    "index.html": "/sens-bingo/index.html",
+    "main.1af785b0.css.map": "/sens-bingo/static/css/main.1af785b0.css.map",
+    "main.1c8b7ffc.js.map": "/sens-bingo/static/js/main.1c8b7ffc.js.map",
+    "787.e54eb4d0.chunk.js.map": "/sens-bingo/static/js/787.e54eb4d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af785b0.css",
+    "static/js/main.1c8b7ffc.js"
+  ]
+}
